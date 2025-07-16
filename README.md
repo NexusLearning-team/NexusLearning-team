@@ -28,7 +28,6 @@ A comprehensive Learning Management System (LMS) designed from the ground up for
 
 We believe that the future of education is collaborative. We are actively seeking to partner with like-minded individuals and organizations who share our vision. This includes:
 
-- **Educational Institutions:** Schools and colleges looking to enhance their digital learning offerings with a modern, flexible platform.
 - **Content Creators & Educators:** Passionate teachers and experts who want to bring their curriculum to a wider audience using our tools.
 - **Technology Partners:** Companies and open-source projects whose services can be integrated into our ecosystem to provide even more value to our users.
   
